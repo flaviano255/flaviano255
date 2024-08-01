@@ -10,7 +10,7 @@
 
 - 🖥️ I’m currently working on **Web developer**
 
-- 🌱 I’m Graduated Student's **INFORMATION COMMUNICATION TECHNOLOGY AT ELECTRON COLLEGE TECHNICAL EDUCATION**
+- 👨‍🎓 I’m Graduated Student's **INFORMATION COMMUNICATION TECHNOLOGY AT ELECTRON COLLEGE TECHNICAL EDUCATION**
 
 - 👯 I’m looking to collaborate on **Game Developer**
 
