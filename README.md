@@ -1,10 +1,7 @@
-![image alt](https://github.com/flaviano255/flaviano255/blob/f4012e0308a1a0e5308563f61f442f3c64df4368/Picsart_24-08-02_08-54-20-793.jpg)
- 
- 
- 
- <h1 align="center">Hi, I'm ROEL 👋</h1>
 <h3 align="center">WEB DEVELOPER</h3>
 
+![image alt](https://github.com/flaviano255/flaviano255/blob/f4012e0308a1a0e5308563f61f442f3c64df4368/Picsart_24-08-02_08-54-20-793.jpg)
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviano255&label=Profile%20views&color=0e75b6&style=flat" alt="flaviano255" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flaviano255" alt="flaviano255" /></a> </p>
