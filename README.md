@@ -1,6 +1,12 @@
 <h3 align="center">WEB DEVELOPER</h3>
 
 ![image alt](https://github.com/flaviano255/flaviano255/blob/f4012e0308a1a0e5308563f61f442f3c64df4368/Picsart_24-08-02_08-54-20-793.jpg)
+
+### Socials: 
+<a href="https://youtube.com/@off854?si=s3yXbMBJydBDwnG_"><img src="https://img.shields.io/badge/Roel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://https://www.instagram.com/wellaint3imp?igsh=azZ0aGxtOWhxNDF5"><img src="https://img.shields.io/badge/Wellaint3imp-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://https://www.linkedin.com/in/roel-flaviano-779abb294//"><img src="https://img.shields.io/badge/Roel Flaviano-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/roel.flaviano.395?mibextid=ZbWKwL/"><img src="https://img.shields.io/badge/Roel Flaviano-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<br>
+
+
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviano255&label=Profile%20views&color=0e75b6&style=flat" alt="flaviano255" /> </p>
 
