@@ -1,5 +1,3 @@
-[![@flaviano255](https://x.com/RoelFlaviano/header_photo)](https://www.facebook.com/roel.flaviano.395)
-------------------------------------------- 
  <h1 align="center">Hi, I'm ROEL 👋</h1>
 <h3 align="center">WEB DEVELOPER</h3>
 
