@@ -17,6 +17,10 @@
  ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{carlcastanas}/count.svg)
 
+![image alt](https://github.com/flaviano255/flaviano255/blob/a60d6cb30284985d676ec422eb46808709e2ea2d/MYI6NK4JOGpOzOriEg.gif)
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flaviano255" alt="flaviano255" /></a> </p>
 
