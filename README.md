@@ -1,7 +1,5 @@
 <h3 align="center">WEB DEVELOPER</h3>
 
-
-
 ![image alt](https://github.com/flaviano255/flaviano255/blob/57ecf8bdf5594f81741d1ab9352825d1ba884764/R_20240808_084331_0002.gif)
 
 ### Socials: 
